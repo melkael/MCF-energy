@@ -1,0 +1,3 @@
+instance,energy,resources,congestion,time,num_nodes,timeout,cg_broke
+1,586.5,109.0,0.19117647058823528,0.615531917,6,false,false
+2,1217.909090909091,240.0,0.19117647058823528,2.043410595,17,false,false

@@ -1,0 +1,3 @@
+instance,energy,resources,congestion,time,num_nodes,timeout,cg_broke,gap
+1,227.5,56.0,0.25,0.229852477,1,false,false,NaN
+2,483.1818181818182,133.0,0.39166666666666666,5.837921897,9,false,false,0.0
